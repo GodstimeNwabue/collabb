@@ -2,6 +2,23 @@
 
 ## Creating a Workflow for Landing Page Initialization
 
+### Table of Contents
+
+1. [Introduction](#introduction)
+
+2. [How It Started](#how-it-started)
+
+   - 2.1 [Project Initialization](#project-initialization)
+   - 2.2 [Persistence and Exploration](#persistence-and-exploration)
+   - 2.3 [Discovery on Canva](#discovery-on-canva)
+
+3. [Proposed Design](#proposed-design)
+
+4. [Folder Structure in Visual Studio Code](#folder-structure-in-visual-studio-code)
+
+5. [Current Status](#current-status)
+
+
 ### Introduction
 
 Every project requires a clear and concise documentation of the workflow and steps taken during its development. This documentation, stored in a 'steps.md' file, serves as a valuable resource for not only the original developer but also for others who might join or take over the project. The purpose is to provide insights into the logical work process, making it easier for collaborators to understand and contribute effectively.
@@ -24,16 +41,14 @@ Every project requires a clear and concise documentation of the workflow and ste
 
 ### Proposed Design
 
-![Proposed Design](link_to_image)
-
-Include an image or a link to the design implemented from Canva.
+![Proposed Design](../contributor1_landing_page/proposed-design/CollabB_landing-page_design.png)
 
 ### Folder Structure
 
 4. **Folder Implementation:**
    - Observation: Analyzed the folder structure of previously completed projects.
    - Implementation: Integrated a folder structure based on best practices and insights from past projects.
-   
+
 ### Current Status
 
 The project is still ongoing, and further updates will be documented as the development progresses. Stay tuned for more details on the steps taken to bring this landing page project to completion.
