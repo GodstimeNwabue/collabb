@@ -1,0 +1,39 @@
+# Project Workflow Documentation - steps.md
+
+## Creating a Workflow for Landing Page Initialization
+
+### Introduction
+
+Every project requires a clear and concise documentation of the workflow and steps taken during its development. This documentation, stored in a 'steps.md' file, serves as a valuable resource for not only the original developer but also for others who might join or take over the project. The purpose is to provide insights into the logical work process, making it easier for collaborators to understand and contribute effectively.
+
+### How It Started
+
+1. **Project Initialization:**
+   - Task: Initiate the development of a landing page.
+   - Challenge: No available design to quickly start implementation.
+   - Initial Approach: Checked Figma for design ideas, but no suitable options found.
+
+2. **Persistence and Exploration:**
+   - Decision: Did not give up on the project despite initial setbacks.
+   - Action: Continued searching for design inspiration.
+   - Tool Exploration: Checked Canva as an alternative to Figma.
+
+3. **Discovery on Canva:**
+   - Outcome: Found a suitable design on Canva.
+   - Implementation: Tweak and adapted the design to fit the project requirements.
+
+### Proposed Design
+
+![Proposed Design](link_to_image)
+
+Include an image or a link to the design implemented from Canva.
+
+### Folder Structure
+
+4. **Folder Implementation:**
+   - Observation: Analyzed the folder structure of previously completed projects.
+   - Implementation: Integrated a folder structure based on best practices and insights from past projects.
+   
+### Current Status
+
+The project is still ongoing, and further updates will be documented as the development progresses. Stay tuned for more details on the steps taken to bring this landing page project to completion.
