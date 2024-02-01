@@ -25,17 +25,17 @@ Every project requires a clear and concise documentation of the workflow and ste
 
 ### How It Started
 
-### 2.1 Project Initialization
+### Project Initialization
    - **Task:** Initiate the development of a landing page.
    - **Challenge:** No available design to quickly start implementation.
    - **Initial Approach:** Checked Figma for design ideas, but no suitable options found.
 
-### 2.2 Persistence and Exploration:
+### Persistence and Exploration:
    - **Decision:** Did not give up on the project despite initial setbacks.
    - **Action:** Continued searching for design inspiration.
    - **Tool Exploration:** Checked Canva as an alternative to Figma.
 
-### 2.3 Discovery on Canva:
+### Discovery on Canva:
    - **Outcome:** Found a suitable design on Canva.
    - **Implementation:** Tweak and adapted the design to fit the project requirements.
 
@@ -45,7 +45,7 @@ Every project requires a clear and concise documentation of the workflow and ste
 
 ### Folder Structure in Visual Studio code
 
-### 4.1 Folder Implementation:
+### Folder Implementation:
    - **Observation:** Analyzed the folder structure of previously completed projects.
    - **Implementation:** Integrated a folder structure based on best practices and insights from past projects.
 
